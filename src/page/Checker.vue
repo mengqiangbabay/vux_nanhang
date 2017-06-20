@@ -2,11 +2,11 @@
 	<div style="padding-top: 30px;">
 		<div class="box">
       <checker v-model="demo1" default-item-class="demo1-item" selected-item-class="demo1-item-selected">
-      <checker-item value="1">潘</checker-item>
-      <checker-item value="2">闲</checker-item>
-      <checker-item value="3">邓</checker-item>
-      <checker-item value="4">小</checker-item>
-      <checker-item value="5">驴</checker-item>
+      <checker-item value="1">现</checker-item>
+      <checker-item value="2">在</checker-item>
+      <checker-item value="3">干</checker-item>
+      <checker-item value="4">什</checker-item>
+      <checker-item value="5">么</checker-item>
       </checker>
       <br>
     </div>
